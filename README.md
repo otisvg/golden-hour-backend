@@ -1,3 +1,4 @@
 # golden-hour-backend
 
-Let the coding begin...!
+This app intends to join older people with stories to share and time and knowledge on their hands, with younger people. 
+

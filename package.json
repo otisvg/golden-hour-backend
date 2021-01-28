@@ -1,0 +1,25 @@
+{
+  "name": "golden-hour-backend",
+  "version": "1.0.0",
+  "description": "This app intends to join older people with stories to share and time and knowledge on their hands, with younger people.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golden-hour/golden-hour-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golden-hour/golden-hour-backend/issues"
+  },
+  "homepage": "https://github.com/golden-hour/golden-hour-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  }
+}
